@@ -8,3 +8,5 @@ Change :- done by teammate for WI3.
 Change :- for the bug2. 
 
 Change :- to add Stash test for WI5
+
+Change :- For WI6 on local master to test normal push.
